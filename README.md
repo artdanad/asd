@@ -4,4 +4,4 @@ $$\<script>{&lt;input&gt;<!--}$$
 ## Button tag:
 $$\<script>{&lt;button&gt;Test Button&lt;/button&gt;<!--}$$
 ## Textarea tag:
-$$<sc<script>ript>{&lt;textarea&gt;Write something...&lt;/textarea&gt;<!--}$$
+$$<scscript>ript>{&lt;textarea&gt;Write something...&lt;/textarea&gt;<!--}$$
