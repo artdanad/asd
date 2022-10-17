@@ -2,4 +2,4 @@
 �
 �$$<div>Test</div>{}$$
 $$<input type=text>{}$$
-$$<sadf>Click Here</button>{}$$
+$$<sadf>Click Here</button>{{message}}$$
